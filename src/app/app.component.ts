@@ -8,8 +8,6 @@ import { Component, OnInit } from '@angular/core';
 export class AppComponent implements OnInit {
   title = 'clean-code';
   ngOnInit() {
-    console.log('hello world');
-    console.log('hello world');
     // normal console log
   }
 }
