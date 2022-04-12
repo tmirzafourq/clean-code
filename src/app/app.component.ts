@@ -9,5 +9,6 @@ export class AppComponent implements OnInit {
   title = 'clean-code';
   ngOnInit() {
     console.log('hello world');
+    // normal console log
   }
 }
